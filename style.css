@@ -56,7 +56,7 @@ main {
   height: 10rem;
 }
 
-.description h2 {
+.description h1 {
   font-size: 31px;
   font-weight: 700;
   color: hsl(0, 0%, 100%);
@@ -82,7 +82,7 @@ main {
   align-items: flex-start;
 }
 
-.stats h3 {
+.stats h2 {
   color: hsl(0, 0%, 100%);
   font-weight: 700;
   font-size: 20px;
